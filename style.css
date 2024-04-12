@@ -1,0 +1,51 @@
+body {
+    align-items: center;
+}
+
+.header {
+    margin-top: 100px;
+    border: 2px solid gray;
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
+#title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
+#title2 {
+    margin-left: 55%;
+}
+
+#desc {
+    margin-top: 1%;
+    margin-left: 25%;
+}
+
+#brain1 {
+    width: 350px;
+    height: 350px;
+    margin-right: 50%;
+
+}
+
+#brain2 {
+    width: 350px;
+    height: 350px;
+    margin-left: 50%;
+    margin-top: -375px;
+}
+
+#start {
+    text-align: center;
+    background-color: green;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    color: white;
+    box-shadow: grey 3px 2px 3px;
+}
